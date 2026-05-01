@@ -4,4 +4,4 @@ This is a website for Math VR's Privacy Policy
 
 ## Link:
 
-https://jonathanchen2384.github.io/Math-VR-Privacy-Policy/
+https://jonathanchen2384.github.io/Math-VR-Privacy-Policy
